@@ -205,12 +205,6 @@ It turns raw study material into a learning journey — one that feels organized
 
 ---
 
-## License
-
-This project is currently in active development for educational and personal productivity use.
-
----
-
 <p align="center">
   <strong>Studymate AI</strong><br>
   Smart study. Better retention. Stronger outcomes.
